@@ -1,0 +1,4 @@
+baseURL = 'https://zh.yfhsu.com/'
+languageCode = 'zh-tw'
+title = '台電生的獨語'
+theme = 'paper'
