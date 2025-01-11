@@ -2,3 +2,11 @@ baseURL = 'https://zh.yfhsu.com/'
 languageCode = 'zh-tw'
 title = '台電生的獨語'
 theme = 'paper'
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  bluesky = 'yfhsu.com'
+  rss = true
